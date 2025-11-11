@@ -55,7 +55,7 @@ Create new Branch tree = new Branch(3, 2)
 
 Call tree.fallLeaves(0)
 
-Output: “The forest sleeps for winter.”
+Output: “The forest sleeps for the winter.”
 
 Output: “--- spring time ---”
 
@@ -63,7 +63,7 @@ Call tree.growLeaves(0)
 
 Output: “The forest is alive again!”
 
-Output: “log saved to leaf_fall_log.txt”
+Output: “saved to leaf_fall_log.txt”
 
 Close PrintStream
 
