@@ -38,7 +38,7 @@ Method: growLeaves(int level)
 If branch already has 3 leaves and no subBranches → stop (base case)
 
 Generate random number of new leaves (1–3)
-Output: “🌱 new leaves grow on level (level)”
+Output: “ new leaves grow on level (level)”
 Use Thread.sleep(500) for animation
 For each subBranch → call growLeaves(level + 1)
 This spreads the regrowth through the entire tree
